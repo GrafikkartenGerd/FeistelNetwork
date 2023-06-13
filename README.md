@@ -1,2 +1,2 @@
 # FeistelNetwork
-Performing the block cypher based on the feistel network
+Performing a block cypher based on the feistel network
